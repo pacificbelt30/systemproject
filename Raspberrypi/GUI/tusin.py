@@ -12,7 +12,7 @@ from requests.exceptions import Timeout
 from GenerateInformation import generate
 
 
-serverIP = "192.168.1.17"
+serverIP = "localhost"
 port = '13431'
 # 多分動く getのみのスクリプトは動いてた
 def get_risyudata(kamoku): # kamokuは科目IDでstr型
