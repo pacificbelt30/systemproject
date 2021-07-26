@@ -1,2 +1,2 @@
 cd /d "%~dp0"
-py -3 start.py
+py -3 launcher.py

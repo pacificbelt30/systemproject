@@ -6,3 +6,4 @@ Raspberrypi/*.csv
 Raspberrypi/F2/*.csv
 Raspberrypi/data/
 /*.py
+!launcher.py
