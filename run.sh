@@ -1,6 +1,6 @@
 #!/bin/bash
 # GUI実行用シェルスクリプト
-#!/bin/sh
+bash
 cd `dirname $0`
 python launcher.py
 
